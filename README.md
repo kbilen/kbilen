@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbilen
 - 👀 I’m interested in app developpement
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React , Rust , SQL advanced
 - 💞️ I’m looking to collaborate on a stage
 - 📫 My university Mail kerim.bilen@etu.unilim.fr
 - ⚡ Fun fact: I'm patient and motivated
